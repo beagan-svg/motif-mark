@@ -1,1 +1,2 @@
-ekko "hello"
+echo "hello"
+echo "yes"
